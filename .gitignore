@@ -1,0 +1,39 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entorno
+.env
+
+# Dependencias de producción
+package-lock.json
+yarn.lock
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+
+# Datos de bases de datos locales
+*.local
+*.pid
+
+# Directorios temporales
+/tmp/
+dist/
+build/
+
+# Archivos de testing
+coverage/
+
+*.txt
